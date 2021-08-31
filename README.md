@@ -1,2 +1,2 @@
 # Feature-Engineering
-Data cleaning
+Data cleaning techniques
